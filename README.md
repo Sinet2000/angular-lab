@@ -1,0 +1,1 @@
+# Angular learning LAB based on `Angular Development with TypeScript` second edition (Yakov Fain, Anton Moiseev)
